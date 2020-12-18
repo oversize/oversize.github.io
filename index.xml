@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuel Schmidt</title>
+    <link>http://www.schmidtman.de/</link>
+    <description>Recent content on Manuel Schmidt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://www.schmidtman.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.schmidtman.de/my_index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.schmidtman.de/my_index/</guid>
+      <description>Hi, I&amp;rsquo;m Manuel  A cloud architect | developer | engineer and everything in between.
+Contact In chronological order:
+ F.Bar, J.Doe: Effects of having a placeholder of a name S.Holmes, J.Watson: Consequences of living with a sociopath in London  Find me This is a link. Something italics and something bold.
+ Here is a table:
+   Year Award Category     2014 Emmy Won Outstanding Lead Actor in a miniseries or a movie   2015 BAFTA Nominated for Best Leading Actor for Sherlock   2014 Satellite Won Best Actor miniseries or television film    Here is a horizontal rule:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.schmidtman.de/myabout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.schmidtman.de/myabout/</guid>
+      <description>About me  I used to be a Web Backend Developer and have built alot of CMS Systems in Python/DJango and the django-cms. Before that i have done way to much PHP and Wordpress/Typo3 then i like to admit. So PHP/Python are the languages i am most familiar with. I&amp;rsquo;ve done enough JavaScript to know i&amp;rsquo;m not missing it and to little golang to say i&amp;rsquo;m good at it.
+Cloud Architect For the last 5 years i&amp;rsquo;ve moved to infrastructure development in AWS.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>http://www.schmidtman.de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.schmidtman.de/about/</guid>
+      <description>About me  I used to be a Web Backend Developer and have built alot of CMS Systems in Python/DJango and the django-cms. Before that i have done way to much PHP and Wordpress/Typo3 then i like to admit. So PHP/Python are the languages i am most familiar with. I&amp;rsquo;ve done enough JavaScript to know i&amp;rsquo;m not missing it and to little golang to say i&amp;rsquo;m good at it.
+Cloud Architect For the last 5 years i&amp;rsquo;ve moved to infrastructure development in AWS.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.schmidtman.de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.schmidtman.de/contact/</guid>
+      <description>Email: manuel@schmidtman.de</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.schmidtman.de/mycontact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.schmidtman.de/mycontact/</guid>
+      <description> Email: manuel@schmidtman.de Phone: +91-123123   Mailing Address  221B, Baker Street
+London
+United Kingdom
+  Social  Facebook Twitter Google+  </description>
+    </item>
+    
+  </channel>
+</rss>

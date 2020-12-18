@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.schmidtman.de/my_index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/myabout/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/mycontact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.schmidtman.de/tags/</loc>
+  </url>
+  
+</urlset>
