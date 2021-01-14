@@ -3,43 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.schmidtman.de/my_index/</loc>
+    <loc>https://www.schmidtman.de/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.schmidtman.de/myabout/</loc>
+    <loc>https://www.schmidtman.de/authors/</loc>
   </url>
   
   <url>
-    <loc>http://www.schmidtman.de/about/</loc>
+    <loc>https://www.schmidtman.de/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.schmidtman.de/authors/</loc>
+    <loc>https://www.schmidtman.de/contact/</loc>
   </url>
   
   <url>
-    <loc>http://www.schmidtman.de/categories/</loc>
+    <loc>https://www.schmidtman.de/</loc>
   </url>
   
   <url>
-    <loc>http://www.schmidtman.de/contact/</loc>
+    <loc>https://www.schmidtman.de/series/</loc>
   </url>
   
   <url>
-    <loc>http://www.schmidtman.de/mycontact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.schmidtman.de/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.schmidtman.de/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.schmidtman.de/tags/</loc>
+    <loc>https://www.schmidtman.de/tags/</loc>
   </url>
   
 </urlset>
